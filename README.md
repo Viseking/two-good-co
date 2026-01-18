@@ -1,4 +1,4 @@
 # two-good-co
 
-#-- HTML WEBSITE --
-# using gsap and JavaScript 
+-- HTML WEBSITE --
+ using gsap and JavaScript 
