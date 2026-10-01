@@ -34,7 +34,7 @@ Getting started (local)
 2. Open index.html in your browser OR run a simple static server:
    - Python 3: python -m http.server 8000
    - Node (serve): npx serve .
-3. Visit http://localhost:8000 (or appropriate port)
+3. Visit https://viseking.github.io/two-good-co/ or http://localhost:8000 (or appropriate port)
 
 Notes about dependencies
 - GSAP (included via script file or CDN). If the repo uses a bundled package.json/build, run npm install and the build step described below.
